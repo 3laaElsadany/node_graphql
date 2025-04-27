@@ -15,13 +15,13 @@ A simple Express.js and GraphQL project that showcases how to build a GraphQL AP
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/3laaElsadany/graphql_ui.git
+   git clone https://github.com/3laaElsadany/node_graphql.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd graphql_ui
+   cd node_graphql
    ```
 
 3. Install dependencies:
